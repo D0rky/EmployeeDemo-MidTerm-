@@ -1,0 +1,7 @@
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\bin\Debug\EmployeeDemo.exe.config
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\bin\Debug\EmployeeDemo.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\bin\Debug\EmployeeDemo.pdb
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\obj\Debug\EmployeeDemo.csprojAssemblyReference.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\obj\Debug\EmployeeDemo.csproj.CoreCompileInputs.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\obj\Debug\EmployeeDemo.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\MidTerm\Midterm\EmployeeDemo\EmployeeDemo\obj\Debug\EmployeeDemo.pdb
